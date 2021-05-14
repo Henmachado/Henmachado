@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ONZvDqZYGvUju/giphy.gif" width="100px"> ## Hey there 
+## Hey there <img src="https://media.giphy.com/media/ONZvDqZYGvUju/giphy.gif" width="100px"> 
 
 <a href="https://www.linkedin.com/in/hnrq-machado/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
