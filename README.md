@@ -27,3 +27,4 @@ I work with data, have a sausage dog, and would discuss NBA anytime in the day
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Apache-Spark-e-Data-Science-.png?w=420&ssl=1"></code>
