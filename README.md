@@ -1,5 +1,3 @@
-## Hey there
-
 <a href="https://www.linkedin.com/in/hnrq-machado/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
