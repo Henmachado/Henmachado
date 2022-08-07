@@ -5,13 +5,10 @@
 </a>
 
 
-<br />
+<!-- <br /> -->
 
-Hello, I'm Henrique
-
-I work with data, have a sausage dog, and would discuss NBA anytime in the day
+I work with data, have a sausage dog, and will discuss NBA anytime in the day
   
-- 💬 Ask me something and I'll try to help you;
 - 📫 How to reach me: hnrq.machado@gmail.com;
 <!-- - 📝 [Resume](https://drive.google.com/file/d/1Xbcyol9tCdj8IPBGtGxkcKeUrfPVwy7t/view?usp=sharing) -->
 
